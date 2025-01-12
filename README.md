@@ -6,15 +6,15 @@ This is a React Native ToDo application. Below are the screenshots of the app:
 
 ### Home Page
 
-![Home Page](./screenshots/ToDo#1.png)
+![Home Page](./screenshots/Todo#1.png)
 
 ### Todo Page
 
-![Todo Page](./screenshots/ToDo#2.png)
+![Todo Page](./screenshots/Todo#2.png)
 
 ### Profile Page
 
-![Profile Page](./screenshots/ToDo#3.png)
+![Profile Page](./screenshots/Todo#3.png)
 
 ## Features
 
